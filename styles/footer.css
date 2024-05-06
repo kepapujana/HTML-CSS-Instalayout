@@ -1,0 +1,27 @@
+footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+
+.footerTop{
+    margin-bottom: 39px;
+}
+
+.footerLink, .footerBottom {
+    font-size: 12px;
+    color: #8E8E8E;
+    margin-right: 16px;
+}
+
+.footerBottom {
+    display: flex;
+    margin-top: 18px;
+}
+
+a.footerBottomLink{
+    margin-right: 25.5px;
+    font-size: 12px;
+    color: #8E8E8E;
+}
